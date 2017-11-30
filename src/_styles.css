@@ -6,3 +6,20 @@
 
 */
 
+/*
+
+  STYLES
+
+  Add custom styles here.
+
+*/
+
+.vc {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.codewars {
+  background-color: #303133;
+}
